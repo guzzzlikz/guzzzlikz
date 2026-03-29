@@ -1,4 +1,5 @@
 <h1 align="center">Yaroslav Volkov<br>VNTU F2 STUDENT T_T</h1>
+<h2 align="center">Java Backend Developer (Spring Framework)</h2>
 
 ###
 
